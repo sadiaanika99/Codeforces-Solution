@@ -1,4 +1,4 @@
-# Codeorces-solution 758A
+ Codeforces-solution 758A:Holiday of equality
 #include <iostream>
 
 using namespace std;
